@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.abc.AppTest" time="0.02" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.abc.AppTest" time="0.016" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -7,7 +7,7 @@
     <property name="java.specification.version" value="1.8"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.class.path" value="D:\Demo Project\demo mvn basic\DemoProject\target\test-classes;D:\Demo Project\demo mvn basic\DemoProject\target\classes;C:\Users\santo\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\santo\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.class.path" value="D:\Git Maven\DemoProject\target\test-classes;D:\Git Maven\DemoProject\target\classes;C:\Users\santo\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\santo\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="user.variant" value=""/>
@@ -18,20 +18,20 @@
     <property name="user.country" value="IN"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_311\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\santo\AppData\Local\Temp\surefire6240813867673671468\surefirebooter39895325589430405.jar C:\Users\santo\AppData\Local\Temp\surefire6240813867673671468 2021-11-29T15-08-44_967-jvmRun1 surefire6855492430225452906tmp surefire_06204711483175804162tmp"/>
-    <property name="surefire.test.class.path" value="D:\Demo Project\demo mvn basic\DemoProject\target\test-classes;D:\Demo Project\demo mvn basic\DemoProject\target\classes;C:\Users\santo\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\santo\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="sun.java.command" value="C:\Users\santo\AppData\Local\Temp\surefire3285778629934902824\surefirebooter5881462959046802417.jar C:\Users\santo\AppData\Local\Temp\surefire3285778629934902824 2021-11-29T16-02-42_041-jvmRun1 surefire3849051764766249426tmp surefire_08844784058227051835tmp"/>
+    <property name="surefire.test.class.path" value="D:\Git Maven\DemoProject\target\test-classes;D:\Git Maven\DemoProject\target\classes;C:\Users\santo\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\santo\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\santo"/>
     <property name="user.language" value="en"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_311\jre"/>
-    <property name="basedir" value="D:\Demo Project\demo mvn basic\DemoProject"/>
+    <property name="basedir" value="D:\Git Maven\DemoProject"/>
     <property name="file.separator" value="\"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\santo\AppData\Local\Temp\surefire6240813867673671468\surefirebooter39895325589430405.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\santo\AppData\Local\Temp\surefire3285778629934902824\surefirebooter5881462959046802417.jar"/>
     <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_311\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_311\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_311\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_311\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_311\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_311\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_311\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_311\jre\classes"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -47,7 +47,7 @@
     <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
     <property name="java.io.tmpdir" value="C:\Users\santo\AppData\Local\Temp\"/>
     <property name="java.version" value="1.8.0_311"/>
-    <property name="user.dir" value="D:\Demo Project\demo mvn basic\DemoProject"/>
+    <property name="user.dir" value="D:\Git Maven\DemoProject"/>
     <property name="os.arch" value="amd64"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
